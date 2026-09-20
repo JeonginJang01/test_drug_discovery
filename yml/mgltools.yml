@@ -1,0 +1,6 @@
+name: mgltools
+channels:
+  - defaults
+dependencies:
+  - mgltools
+prefix: /home/koxpular/miniconda3/envs/mgltools

@@ -1,0 +1,19 @@
+name: docking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - biopython=1.77
+  - opencadd
+  - matplotlib
+  - openbabel
+  - gemmi
+  - ipykernel
+  - meeko
+  - propka
+  - pdb2pqr
+  - pdbfixer
+  - git-filter-repo
+  - matplotlib-venn
+

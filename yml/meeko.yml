@@ -1,0 +1,10 @@
+name: meeko
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - meeko
+  - rdkit
+  - openbabel
+  - dimorphite-dl
+prefix: /home/koxpular/miniconda3/envs/meeko
